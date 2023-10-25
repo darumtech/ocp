@@ -9,10 +9,9 @@ workstation
 student / student
 root / redhat
 
-https://github.com/darumtech/ocp.git
+https://registry.ocp4.example.com:8443
 
-
-
+developer / developer 
 
 lab action start
 lab action grade
